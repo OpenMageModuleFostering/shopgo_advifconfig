@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+    <name>Shopgo_AdvIfconfig</name>
+    <version>1.0.3</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Advanced Ifconfig is a utility module that extends Magento's ifconfig and adds more features to it.</summary>
+    <description>&lt;p&gt;Advanced Ifconfig is a utility module that extends Magento's ifconfig and adds more features to it.&#xD;
+The module is used by some of ShopGo's modules.&#xD;
+(Documentation is currently unavailable)&lt;/p&gt;&#xD;
+You could also get the latest version of the module from:&#xD;
+&lt;a href="https://github.com/shopgo-me/advanced-ifconfig"&gt;https://github.com/shopgo-me/advanced-ifconfig&lt;/a&gt;</description>
+    <notes>The first release of Advanced Ifconfig extension.</notes>
+    <authors><author><name>ShopGo</name><user>ShopGo</user><email>support@shopgo.me</email></author></authors>
+    <date>2015-07-08</date>
+    <time>19:27:24</time>
+    <contents><target name="magecommunity"><dir name="Shopgo"><dir name="AdvIfconfig"><dir name="Helper"><file name="Data.php" hash="9f81b663a44dc13da7fd44efb4e48109"/></dir><dir name="Model"><dir name="Magento"><dir name="Core"><file name="Layout.php" hash="f2cbd44603f3dbdda502596339802a98"/></dir></dir></dir><dir name="etc"><file name="config.xml" hash="220c82f948121bb220dc02fa186165a3"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Shopgo_AdvIfconfig.xml" hash="712614f04a4563cbac40b522e8a7a9d8"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.0</min><max>7.0.0</max></php><package><name>Shopgo_Core</name><channel>community</channel><min>1.0.6</min><max/></package></required></dependencies>
+</package>
