@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Shopgo_AdvIfconfig",
+    "name": "openmage-module-fostering\/shopgo_advifconfig",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Advanced Ifconfig is a utility module that extends Magento's ifconfig and adds more features to it.",
     "authors": [
